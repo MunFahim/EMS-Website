@@ -1,0 +1,13 @@
+.logo{
+    font-size: 100px;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(248, 160, 160);
+    text-shadow: 5px 5px rgb(241, 100, 100), 10px 10px rgba(231, 214, 214, 0.849);
+    transition: .5s ease;
+}
+
+.logo:hover{
+    font-size: 6em;
+}
