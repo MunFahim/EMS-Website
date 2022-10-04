@@ -1,0 +1,26 @@
+.vidspace{
+    
+}
+
+.vidText{
+    margin: 0% 0% 0.5% 10%;
+    font-size: 40px;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    color: rgb(243, 78, 78);
+    text-shadow: 3px 2px 0px #f88d8d;
+}
+
+
+.vids{
+    display: inline-flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    gap: 12px;
+    
+ 
+}
+
+
+
